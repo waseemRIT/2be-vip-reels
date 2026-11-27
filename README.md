@@ -4,7 +4,7 @@ Ready-to-post handwriting reels, swipeable slideshows (slide images + video) and
 
 | Series | Posts |
 |---|---|
-| [Brag Reels](<Brag Reels/>) | 7 films + Pilot 01 (36 videos) + Wave 02 (72 videos) + Wave 03 (120 videos + 18 narrated) |
+| [Brag Reels](<Brag Reels/>) | 7 films + Pilot 01 (36 videos) + Wave 02 (72 videos) + Wave 03 (120 videos + 27 narrated) |
 | [Handwriting Reels](<Handwriting Reels/>) | 250 |
 | [Slideshows](<Slideshows/>) | 100 |
 
@@ -35,7 +35,7 @@ Channels by dialect: **Gulf** → Sami and Sawalif · **Egyptian** → Hamada ·
 
 ### Wave 03
 
-**Narrated versions:** S15 Kids Asleep, S17 One Link, Three Steps, S18 Shy to Speak also have a voice-over in the keynote and scene styles, in all three dialects (18 videos): `keynote - voiced.mp4` / `scene - voiced.mp4`, with `caption - <style> - voiced.txt`. All other Wave 03 videos are music-only.
+**Narrated versions:** S15 Kids Asleep, S17 One Link, Three Steps, S18 Shy to Speak also have a voice-over in the keynote, scene and illustrated styles, in all three dialects (27 videos): `<style> - voiced.mp4`, with `caption - <style> - voiced.txt`. All other Wave 03 videos are music-only.
 
 120 music-only promos: 10 scripts × 3 dialects × 4 styles, same folder layout and the same channels by dialect as Pilot 01.
 
